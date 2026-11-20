@@ -22,7 +22,6 @@ img {
     width: 320px;
     height: 499px;
     border-radius: 20px;
-    margin-top: auto;
     padding: 16px 16px 40px 16px;
     display: flex;
     flex-direction: column;
